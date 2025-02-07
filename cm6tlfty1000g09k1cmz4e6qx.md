@@ -2,8 +2,8 @@
 title: "#1 Intro to my DevOps Journey"
 datePublished: Thu Feb 06 2025 17:10:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm6tlfty1000g09k1cmz4e6qx
-slug: 1-intro-to-my-devops-journey
-tags: cloud, devops, first-article, learning-journey
+slug: intro-to-my-devops-journey
+tags: cloud, devops, getting-started, first-article, learning-journey
 
 ---
 
