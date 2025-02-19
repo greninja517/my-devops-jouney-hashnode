@@ -146,7 +146,7 @@ In this Java Multi-Stage Build, I have used the distroless image in the final st
 
 Distroless image is the minimal base image that includes only the necessary OS files, libraries without any package managers and even the shell. On the top of it, we include our application code and runtime dependicies. These images are the ones that are used in production environment because they are more secure and have minimal vulnerablities. Attacks like command injection aren’t seen in this type of images.
 
-But, everything not matter how good it is has some issues right, and, this distroless images also carries such issues. Because of the minimal OS tools and missing shell, it’s very challenging to debug the containers once created. We don’t even have the command like ls, cat , etc. So, we have to use other images if we need troubleshooting and use this distroless image at the final stage. Here’s the link you can checkout for the Docker distroless images offered by Google.
+But, everything no matter how good it is has some issues right, and, this distroless images also carries such issues. Because of the minimal OS tools and missing shell, it’s very challenging to debug the containers once created. We don’t even have the command like ls, cat , etc. So, we have to use other images if we need troubleshooting and use this distroless image at the final stage. Here’s the link you can checkout for the Docker distroless images offered by Google.
 
 [https://github.com/GoogleContainerTools/distroless.git](https://github.com/GoogleContainerTools/distroless.git)
 
