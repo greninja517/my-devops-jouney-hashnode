@@ -3,6 +3,7 @@ title: "How I deployed a Three-Tier Application using HELM in Kubernetes Cluster
 datePublished: Mon May 05 2025 05:29:11 GMT+0000 (Coordinated Universal Time)
 cuid: cmaan4tu8000209lc3g3b4hqk
 slug: how-i-deployed-a-three-tier-application-using-helm-in-kubernetes-cluster
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746425495823/3122166a-c213-48d7-8fc8-43b66d0ae1f9.png
 tags: kubernetes, devops, helm, three-tier-architecture
 
 ---
